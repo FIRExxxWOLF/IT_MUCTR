@@ -490,6 +490,7 @@ footer .info .some-info {
 footer .info .some-info .some-text-0{
     width: 221px;
     height: 32px;
+    font-size: 12px;
     text-align: center;
     display: flex;
     justify-content: center;
