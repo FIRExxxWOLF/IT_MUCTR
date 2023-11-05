@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Inter'; 
     src: local('Inter'),
-        url(/fonts/Inter-Thin.ttf); 
+        url(/IT_MUCTR/fonts/Inter-Thin.ttf); 
     }
 
 *{
@@ -105,7 +105,7 @@ header .nav-menu .menu-1-items{
 
 /* ---------MAIN-PAGE--------- */
 .Top-block{
-    background-image: url(/img/main_page.png);
+    background-image: url(/IT_MUCTR/img/main_page.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -131,7 +131,7 @@ header .nav-menu .menu-1-items{
 
 /* ---------MUCTR--------- */
 .MUCTR{
-    background-image: url(/img/muctr_bright.png);
+    background-image: url(/IT_MUCTR/img/muctr_bright.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -270,21 +270,21 @@ header .nav-menu .menu-1-items{
 
 .Study .study-card .study-img-1{
     height: 300px;
-    background-image: url(/img/study-1.png);
+    background-image: url(/IT_MUCTR/img/study-1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .Study .study-card .study-img-2{
     height: 300px;
-    background-image: url(/img/study-2.png);
+    background-image: url(/IT_MUCTR/img/study-2.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .Study .study-card .study-img-3{
     height: 300px;
-    background-image: url(/img/study-3.png);
+    background-image: url(/IT_MUCTR/img/study-3.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -325,7 +325,7 @@ header .nav-menu .menu-1-items{
 
 
 .microscope{
-    background-image: url(/img/microscope.jpeg);
+    background-image: url(/IT_MUCTR/img/microscope.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
